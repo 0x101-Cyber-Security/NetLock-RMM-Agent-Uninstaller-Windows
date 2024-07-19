@@ -108,10 +108,6 @@ namespace NetLock_RMM_Agent_Uninstaller_Windows
                 Helper.IO.Delete_Directory(Application_Paths.program_files_remote_agent_dir);
                 Logging.Handler.Debug("Main", "Deleting directories.", Application_Paths.program_data_remote_agent_dir);
                 Helper.IO.Delete_Directory(Application_Paths.program_data_remote_agent_dir);
-                Logging.Handler.Debug("Main", "Deleting directories.", Application_Paths.program_files_health_agent_dir);
-                Helper.IO.Delete_Directory(Application_Paths.program_files_health_agent_dir);
-                Logging.Handler.Debug("Main", "Deleting directories.", Application_Paths.program_data_health_agent_dir);
-                Helper.IO.Delete_Directory(Application_Paths.program_data_health_agent_dir);
 
                 Console.WriteLine("[" + DateTime.Now + "] - [Main] -> Deleted directories.");
             }
@@ -151,9 +147,9 @@ namespace NetLock_RMM_Agent_Uninstaller_Windows
 
                 // Delete directories
                 Console.WriteLine("[" + DateTime.Now + "] - [Main] -> Deleting directories.");
-                Logging.Handler.Debug("Main", "Deleting directories.", Application_Paths.program_files_comm_agent_dir);
+                Logging.Handler.Debug("Main", "Deleting directories.", Application_Paths.program_files_0x101_cyber_security_dir);
                 Helper.IO.Delete_Directory(Application_Paths.program_files_0x101_cyber_security_dir);
-                Logging.Handler.Debug("Main", "Deleting directories.", Application_Paths.program_data_comm_agent_dir);
+                Logging.Handler.Debug("Main", "Deleting directories.", Application_Paths.program_data_0x101_cyber_security_dir);
                 Helper.IO.Delete_Directory(Application_Paths.program_data_0x101_cyber_security_dir);
                 Console.WriteLine("[" + DateTime.Now + "] - [Main] -> Directories deleted.");
             }
