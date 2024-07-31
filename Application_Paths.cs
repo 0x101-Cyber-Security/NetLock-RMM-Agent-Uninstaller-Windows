@@ -24,7 +24,7 @@ namespace NetLock_RMM_Agent_Uninstaller_Windows
         
         public static string program_data_comm_agent_events_path = @"C:\ProgramData\0x101 Cyber Security\NetLock RMM\Comm Agent\events.nlock";
         public static string program_data_comm_agent_policies_path = @"C:\ProgramData\0x101 Cyber Security\NetLock RMM\Comm Agent\policy.nlock";
-        public static string program_data_comm_agent_server_config_json_path = @"C:\ProgramData\0x101 Cyber Security\NetLock RMM\Comm Agent\policy.nlock";
+        public static string program_data_comm_agent_server_config_json_path = @"C:\ProgramData\0x101 Cyber Security\NetLock RMM\Comm Agent\server_config.json";
         public static string program_data_comm_agent_version_path = @"C:\ProgramData\0x101 Cyber Security\NetLock RMM\Comm Agent\version.txt";
 
         public static string program_files_remote_agent_dir = @"C:\Program Files\0x101 Cyber Security\NetLock RMM\Remote Agent";
