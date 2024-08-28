@@ -3,11 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|c:\\users\\nicomak\\netlock root\\netlock-rmm-agent-uninstaller-windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NetLock RMM Agent Uninstaller (Windows)||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|c:\\users\\nicomak\\netlock root\\netlock-rmm-agent-uninstaller-windows\\helper\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|solutionrelative:helper\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\helper\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|solutionrelative:helper\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\helper\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|solutionrelative:helper\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\helper\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|solutionrelative:helper\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|c:\\users\\nicomak\\netlock root\\netlock-rmm-agent-uninstaller-windows\\application_paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\application_paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|solutionrelative:application_paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,23 +34,15 @@
       "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|solutionrelative:application_paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NetLock RMM Agent Uninstaller (Windows)||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\helper\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|solutionrelative:helper\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\helper\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|solutionrelative:helper\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\helper\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|solutionrelative:helper\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\helper\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller Windows.csproj|solutionrelative:helper\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F14748-8683-4AF3-9F0D-50F9863C05C9}|NetLock RMM Agent Uninstaller (Windows).csproj|c:\\users\\nicomak\\netlock root\\netlock-rmm-agent-uninstaller-windows\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,35 +52,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Application_Paths.cs",
-              "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Application_Paths.cs",
-              "RelativeDocumentMoniker": "Application_Paths.cs",
-              "ToolTip": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Application_Paths.cs",
-              "RelativeToolTip": "Application_Paths.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T14:21:48.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "NetLock RMM Agent Uninstaller (Windows)",
               "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\NetLock RMM Agent Uninstaller (Windows).csproj",
               "RelativeDocumentMoniker": "NetLock RMM Agent Uninstaller (Windows).csproj",
               "ToolTip": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\NetLock RMM Agent Uninstaller (Windows).csproj",
               "RelativeToolTip": "NetLock RMM Agent Uninstaller (Windows).csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-19T21:19:56.225Z"
+              "WhenOpened": "2024-08-28T10:50:25.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Process.cs",
+              "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Helper\\Process.cs",
+              "RelativeDocumentMoniker": "Helper\\Process.cs",
+              "ToolTip": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Helper\\Process.cs",
+              "RelativeToolTip": "Helper\\Process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:28:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IO.cs",
+              "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Helper\\IO.cs",
+              "RelativeDocumentMoniker": "Helper\\IO.cs",
+              "ToolTip": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Helper\\IO.cs",
+              "RelativeToolTip": "Helper\\IO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:27:58.996Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Application_Paths.cs",
+              "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Application_Paths.cs",
+              "RelativeDocumentMoniker": "Application_Paths.cs",
+              "ToolTip": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Application_Paths.cs",
+              "RelativeToolTip": "Application_Paths.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:21:48.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IO.cs",
               "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Helper\\IO.cs",
               "RelativeDocumentMoniker": "Helper\\IO.cs",
@@ -81,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Process.cs",
               "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Helper\\Process.cs",
               "RelativeDocumentMoniker": "Helper\\Process.cs",
@@ -93,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Logging.cs",
               "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Helper\\Logging.cs",
               "RelativeDocumentMoniker": "Helper\\Logging.cs",
@@ -105,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Application_Paths.cs",
               "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Application_Paths.cs",
               "RelativeDocumentMoniker": "Application_Paths.cs",
@@ -117,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Helper\\Service.cs",
               "RelativeDocumentMoniker": "Helper\\Service.cs",
@@ -129,16 +165,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\NicoMak\\NetLock Root\\NetLock-RMM-Agent-Uninstaller-Windows\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAIAwwD4AAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T18:31:02.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T18:31:02.69Z"
             }
           ]
         },
