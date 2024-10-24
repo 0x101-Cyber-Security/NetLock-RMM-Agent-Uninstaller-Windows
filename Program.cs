@@ -60,6 +60,9 @@ namespace NetLock_RMM_Agent_Uninstaller_Windows
                 Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"NetLock RMM Comm Agent (Windows).exe\"");
                 Logging.Handler.Debug("Main", "Terminating processes.", "NetLock RMM Remote Agent (Windows).exe");
                 Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"NetLock RMM Remote Agent (Windows).exe\"");
+                Logging.Handler.Debug("Main", "Terminating processes.", "NetLock RMM User Process.exe");
+                Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"NetLock RMM User Process.exe\"");
+
                 //Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"yara64.exe\""); // yara64.exe is (currently) not used in the project, its part of a netlock legacy feature
                 //Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"devcon_x64.exe\""); // devcon_x64.exe is (currently) not used in the project, its part of a netlock legacy feature
                 Console.WriteLine("[" + DateTime.Now + "] - [Main] -> Terminated processes.");
@@ -131,6 +134,8 @@ namespace NetLock_RMM_Agent_Uninstaller_Windows
                 Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"NetLock RMM Remote Agent (Windows).exe\"");
                 Logging.Handler.Debug("Main", "Terminating processes.", "NetLock RMM Health Agent (Windows).exe");
                 Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"NetLock RMM Health Agent (Windows).exe\"");
+                Logging.Handler.Debug("Main", "Terminating processes.", "NetLock RMM User Process.exe");
+                Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"NetLock RMM User Process.exe\"");
                 //Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"yara64.exe\""); // yara64.exe is (currently) not used in the project, its part of a netlock legacy feature
                 //Helper._Process.Start("cmd.exe", "/c taskkill /F /IM \"devcon_x64.exe\""); // devcon_x64.exe is (currently) not used in the project, its part of a netlock legacy feature
                 Console.WriteLine("[" + DateTime.Now + "] - [Main] -> Terminated processes.");

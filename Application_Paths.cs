@@ -36,6 +36,10 @@ namespace NetLock_RMM_Agent_Uninstaller_Windows
         public static string program_data_health_agent_dir = @"C:\Program Files\0x101 Cyber Security\NetLock RMM\Health Agent";
         public static string program_data_health_agent_logs_dir = @"C:\ProgramData\0x101 Cyber Security\NetLock RMM\Health Agent\Logs";
 
+        public static string program_files_user_process_dir = @"C:\Program Files\0x101 Cyber Security\NetLock RMM\User Process";
+        public static string program_data_user_process_dir = @"C:\ProgramData\0x101 Cyber Security\NetLock RMM\User Process";
+        public static string program_data_user_process_logs_dir = @"C:\ProgramData\0x101 Cyber Security\NetLock RMM\User Process\Logs";
+
         public static string program_files_0x101_cyber_security_dir = @"C:\Program Files\0x101 Cyber Security";
         public static string program_data_0x101_cyber_security_dir = @"C:\ProgramData\0x101 Cyber Security";
     }
